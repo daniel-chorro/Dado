@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dado</string>
+    <string name="imagen_de_la_cara_de_un_dado">Imagen de la cara de un dado</string>
+    <string name="lanzar_dado">Lanzar Dado</string>
+    <string name="cara_del_dado">Cara del dado</string>
+    <string name="descripcion_dado">Cara del dado</string>
+    <string name="lanzar_dados">Lanzar Dado</string>
+</resources>
