@@ -9,7 +9,8 @@ Una aplicación sencilla e intuitiva para Android desarrollada en Kotlin que sim
 A continuación se muestra el diseño y funcionamiento de la aplicación:
 
 <!-- Coloca tu imagen en una carpeta llamada 'screenshots' o directamente en la raíz de tu proyecto y cambia la ruta de abajo -->
-![Captura de la App](<img width="375" height="802" alt="image" src="https://github.com/user-attachments/assets/ba97ab59-27fd-4ef1-8300-0910a941918a" />)
+![Captura de la App]<img width="381" height="807" alt="Sin título" src="https://github.com/user-attachments/assets/4eb63ad6-c31d-469e-93bc-4179705dcb5d" />
+
 
 ---
 
